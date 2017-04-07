@@ -2,6 +2,7 @@ appdirs==1.4.3
 asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
+beautifulsoup4==4.5.3
 cffi==1.10.0
 constantly==15.1.0
 cryptography==1.8.1
